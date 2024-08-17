@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+.navbar{
+    background-color: #1d1283;
+    /* padding: 20px; */
+}
+.navbar a{
+    color: #ffffff;
+    font-weight: 600;
+    margin-left: 24px;
+    margin-right: 24px;
+
+}
+.nav-link:hover{
+    color:green;
+}
+
+/* hero div */
+.hero{
+    margin-top: 80px;
+}
+.hero-title{
+    font-size: 4rem;
+}
